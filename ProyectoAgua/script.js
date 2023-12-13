@@ -1,10 +1,10 @@
 window.onload = function() {
         const puntos = [
-            { x: 890, y: 200, video: 'img/camporegado.mp4', texto: 'Información del primer punto.' },
+            { x: 1060, y: 400, video: 'img/camporegado.mp4', texto: 'Información del primer punto.' },
             { x: 670, y: 360, video: 'enlace-al-video-2.mp4', texto: 'Información del segundo punto.' },
-            { x: 860, y: 400, video: 'enlace-al-video-2.mp4', texto: 'Información del segundo punto.' },
-            { x: 900, y: 300, video: 'enlace-al-video-2.mp4', texto: 'Información del segundo punto.' },
-            { x: 800, y: 590, video: 'enlace-al-video-2.mp4', texto: 'Información del segundo punto.' },
+            { x: 860, y: 450, video: 'enlace-al-video-2.mp4', texto: 'Información del tercer punto.' },
+            { x: 900, y: 580, video: 'enlace-al-video-2.mp4', texto: 'Información del quarto punto.' },
+            { x: 600, y: 590, video: 'enlace-al-video-2.mp4', texto: 'Información del quinto punto.' },
 
         ];
     
