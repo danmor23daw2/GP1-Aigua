@@ -107,7 +107,7 @@ video {
 
 .navegacion-info a:hover {
     color: #08dfc2;
-    transform: scale(2);
+    transform: scale(1.5);
 }
 
 main {
