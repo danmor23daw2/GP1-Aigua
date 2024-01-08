@@ -1,10 +1,10 @@
 window.onload = function() {
         const puntos = [
-            { x: 1060, y: 280, video: 'img/camporegado.mp4', texto: 'Campo de futbol siendo regado lloviendo' },
-            { x: 670, y: 300, video: 'enlace-al-video-2.mp4', texto: 'Información del segundo punto.' },
-            { x: 860, y: 360, video: 'enlace-al-video-2.mp4', texto: 'Información del tercer punto.' },
-            { x: 870, y: 530, video: 'enlace-al-video-2.mp4', texto: 'Información del quarto punto.' },
-            { x: 600, y: 650, video: 'enlace-al-video-2.mp4', texto: 'Información del quinto punto.' },
+            { x: 1060, y: 1680, video: 'img/camporegado.mp4', texto: 'Campo de futbol siendo regado lloviendo' },
+            { x: 670, y: 1700, video: 'enlace-al-video-2.mp4', texto: 'Información del segundo punto.' },
+            { x: 860, y: 1760, video: 'enlace-al-video-2.mp4', texto: 'Información del tercer punto.' },
+            { x: 870, y: 1930, video: 'enlace-al-video-2.mp4', texto: 'Información del quarto punto.' },
+            { x: 600, y: 2050, video: 'enlace-al-video-2.mp4', texto: 'Información del quinto punto.' },
 
         ];
     
